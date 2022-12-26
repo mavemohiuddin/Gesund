@@ -567,6 +567,9 @@ body {
     width: 100%;
     object-fit: cover;
 }
+.description_02 .section_heading {
+    color: white;
+}
 .description_02 .text_column {
     gap: 20px;
 }
